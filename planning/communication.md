@@ -2,25 +2,24 @@
 
 ## Group Rules
 
-<!-- any general rules you'd like to set for your group? -->
+- Always communicate
 
 ---
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| Day | How  | The topic of discussion |
+| --- | :--: | ----------------------- |
+| 1   | Zoom | Planning                |
+| 2   | Zoom | Development             |
 
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **GitHub Discussions**
-- **Slack/Discord**:
-- **Video Calls**:
+- **GitHub Discussions**:
+  <https://github.com/BF-FrontEnd-class-2025/group-4-all-about-trees/discussions>
+- **Slack**:#bf-frontend-group-4
 
 ---
 
@@ -28,17 +27,19 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Day     | Monday | Tuesday | Wednesday | Thursday | Friday |
+| ------- | :----: | :-----: | :-------: | :------: | :----: |
+| Roman   | 9 - 17 | 9 - 17  |  9 - 17   |  9 - 17  | 9 - 17 |
+| Manloi  | 9 - 17 | 9 - 17  |  9 - 17   |  9 - 17  | 9 - 17 |
+| Alamgir | 9 - 17 | 9 - 17  |  9 - 17   |  9 - 17  | 9 - 17 |
+| Artur   | 9 - 17 | 9 - 17  |  9 - 17   |  9 - 17  | 9 - 17 |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Roman: _8h_;
+- Manloi: _8h_;
+- Alamgir: _8h_;
+- Artur: _8h_;
 
 ## Asking for Help
 

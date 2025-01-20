@@ -4,7 +4,7 @@ Some boundaries around our project.
 
 ## External
 
-- Time only 5 days
+- Time only 2 days
 - No budget
 
 ## Internal
