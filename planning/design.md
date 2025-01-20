@@ -2,16 +2,19 @@
 
 ## Project's design overview
 
-> Give an overview of your project's design
+The website has:
 
-<!-- give an overview of your project's design -->
-<!-- describe the reasoning behind your group's design and wireframe -->
-<!-- include other centralized decisions like fonts, palates, ... -->
+- a title with two bouncing logos
+- a navigation bar
+- main content overview
+- some links
+- a side bar
+- a footer
 
 ---
 
 ## Wireframe(s)
 
-> Include your wireframe(s) and link to wireframe
+[website design](https://excalidraw.com/#json=yxTjpcddj1_DaHLbm9Cbe,23TYyfWpGVYSogqxhxoU6w)
 
-<!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
+![website design](./design.png)
