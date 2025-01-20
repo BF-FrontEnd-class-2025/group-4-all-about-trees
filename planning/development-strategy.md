@@ -1,55 +1,99 @@
-# Project Name
-
-<!-- describe your project -->
+# All about trees
 
 ---
 
 ## Setup
 
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
+- create
 
----
+## Title
 
-<!-- copy this section once for each must-have user story -->
+this feature develop on a branch "title"
 
-## user story
+### HTML
 
-<!-- each issue created from this section will have the `for: user story` label -->
+- Add header tag
+- Add Img tag inside header
+- Add h1 tag inside header
 
-> "as a ... i can ... so that ..."
+### CSS
 
-<!-- write any extra notes or description -->
+- Add style to centered-items
+- Add style to bouncy-img
+- Add hover to bouncy-img
+- Add Animation to bouncy-img
 
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
+## Navigation bar
 
-### Logic: user story
+this feature develop on a branch "navigation-bar"
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+### HTML
 
-### Interface: user story
+- Add nav tag
+- Add div tag to nav
+- Add a tag to div
+- Add text "intro", "content", "extras" to each a
 
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+### CSS
 
-### Interaction: user story
+- Add style spaced-items
+- Add style bottom-divider
+- Add style
 
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+## Main content
 
-### Documentation: user story
+this feature develop on a branch "main-content"
 
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+### HTML
+
+- Add section tag
+- Add p tag to section
+- Add br tag to p
+
+### CSS
+
+- Add style fascinating-words
+
+## Side bar
+
+this feature develop on a branch "side-bar"
+
+### HTML
+
+- Add aside tag
+- Add p tag to aside
+- Add a tag to p
+
+### CSS
+
+- Add style aside-info
+- Add style aside-text
+
+## Links
+
+this feature develop on a branch "links"
+
+### HTML
+
+- Add article tag
+- Add p tag to article
+- Add ul tag to article
+- Add li tag to ul
+- Add a tag to li
+
+### CSS
+
+- Add style interesting-things
+
+## Footer
+
+this feature develop on a branch "footer"
+
+### HTML
+
+- Add footer tag
+- Add a tag to footer
+
+### CSS
+
+- Add style top-divider, spaced-items
