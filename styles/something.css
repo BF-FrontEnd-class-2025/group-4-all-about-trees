@@ -53,6 +53,10 @@ body {
   font-family: fantasy;
 }
 
+.top-divider {
+  border-style: solid none none none;
+}
+
 /* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside */
 .aside-info {
   width: 40%;
