@@ -12,7 +12,7 @@
 
 ## Title
 
-This feature develop on a branch "title"
+This feature develop on a branch `title`
 
 ### HTML
 
@@ -29,7 +29,7 @@ This feature develop on a branch "title"
 
 ## Navigation bar
 
-This feature develop on a branch "navigation-bar"
+This feature develop on a branch `navigation-bar`
 
 ### HTML
 
@@ -46,7 +46,7 @@ This feature develop on a branch "navigation-bar"
 
 ## Main content
 
-This feature develop on a branch "main-content"
+This feature develop on a branch `main-content`
 
 ### HTML
 
@@ -60,7 +60,7 @@ This feature develop on a branch "main-content"
 
 ## Side bar
 
-This feature develop on a branch "side-bar"
+This feature develop on a branch `side-bar`
 
 ### HTML
 
@@ -75,7 +75,7 @@ This feature develop on a branch "side-bar"
 
 ## Links
 
-This feature develop on a branch "links"
+This feature develop on a branch `links`
 
 ### HTML
 
@@ -91,7 +91,7 @@ This feature develop on a branch "links"
 
 ## Footer
 
-This feature develop on a branch "footer"
+This feature develop on a branch `footer`
 
 ### HTML
 
