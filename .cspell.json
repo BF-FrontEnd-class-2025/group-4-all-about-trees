@@ -17,7 +17,8 @@
     "wireframe",
     "Manloi",
     "Alamgir",
-    "Artur"
+    "Artur",
+    "keyframes"
   ],
   "ignorePaths": [
     "node_modules/**",

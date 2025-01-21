@@ -32,33 +32,133 @@
 
 - Node 14.16.0
 - VSC code
-- JavaScript
-- ...
-- ...
+- HTML
+- CSS
 
 ## Setup
 
+- `npm install`
 - `npm run start`
 
 ## Code Examples
 
-```js
-// the hello world program
-console.log("Hello World");
+```HTML
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>All About Trees</title>
+
+    <meta name="description" content="a short introduction to trees" />
+    <meta name="author" content="Team HYF" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <link rel="stylesheet" href="./styles/index.css" />
+  </head>
+
+  <body>
+    <header class="centered-items">
+      <img
+        class="bouncy-img"
+        src="./assets/happy-tree.jpg"
+        alt="a smiling tree"
+      />
+      <h1>All About Trees</h1>
+      <img
+        class="bouncy-img"
+        src="./assets/happy-tree.jpg"
+        alt="a smiling tree"
+      />
+    </header>
+    <nav class="bottom-divider">
+      <div class="spaced-items">
+        <a href="#summary-info">intro</a>
+        <a href="#main-info">content</a>
+        <a href="#extra-info">extras</a>
+      </div>
+    </nav>
+    <section id="summary-info">
+      <p class="fascinating-words">
+        How do Trees Work? Well, this has been a tough question to answer.
+        <br />
+        My colleagues and I sat down last week and we spent at least 45 minutes
+        thinking about it. Still we have nothing smart to say.
+      </p>
+    </section>
+  </body>
+</html>
+```
+
+```CSS
+body {
+  background-color: white;
+}
+
+.centered-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.bouncy-img {
+  width: 5%;
+  height: 5%;
+}
+
+.bouncy-img:hover {
+  animation: bounce 1s;
+}
+
+@keyframes bounce {
+  0%,
+  20%,
+  60%,
+  100% {
+    transform: translateY(0);
+  }
+
+  40% {
+    transform: translateY(-20px);
+  }
+
+  80% {
+    transform: translateY(-10px);
+  }
+}
+
+.bottom-divider {
+  border-style: none none solid;
+}
+
+.spaced-items {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: space-around;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.fascinating-words {
+  font-family: fantasy;
+}
 ```
 
 ## Features
 
 List of features ready and Todos for future development
 
--
--
--
+- Add java script code
+- Add more information
+- Add more pictures of trees
+- Add more links about trees
 
 To-do list:
 
--
--
+- Footer
 
 ## Status
 
@@ -66,11 +166,11 @@ Project is: _in progress_
 
 ## Inspiration
 
-Project by freeCodeCamp.org
+Project by HYF group-4
 
 ## Contact
 
-By [Name]
+By [Artur], [Roman], [Manloi], [Almagir]
 
 ## Instructions for use
 
@@ -79,14 +179,14 @@ By [Name]
 
 <!-- a guide to using this repository -->
 
-1. `git clone git@github.com:HackYourFutureBelgium/template-markdown.git`
-2. `cd template-markdown`
-3. `npm install`
+1. `git clone https://github.com/BF-FrontEnd-class-2025/group-4-all-about-trees.git`
+2. `npm install`
 
 ## Code Quality Checks
 
 - `npm run format`: Makes sure all the code in this repository is well-formatted
   (looks good).
+- `npm run format:check`: Check to make sure all world spell
 - `npm run lint:ls`: Checks to make sure all folder and file names match the
   repository conventions.
 - `npm run lint:md`: Will lint all of the Markdown files in this repository.

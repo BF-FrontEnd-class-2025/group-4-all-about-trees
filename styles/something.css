@@ -52,3 +52,7 @@ body {
 .fascinating-words {
   font-family: fantasy;
 }
+
+.top-divider {
+  border-style: solid none none none;
+}
