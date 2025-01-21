@@ -1,6 +1,6 @@
 # All about trees
 
-> This project would be a simple website which is about planting trees.
+> This project is a simple website about trees.
 
 ## Table of contents
 
@@ -22,29 +22,54 @@
 
 ## General info
 
-> A short description
+> This is a simple website called `All About Trees`. It contains some interesting info about trees.
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![Example screenshot](./planning/screenshot.png)
 
 ## Technologies
 
-- Node 14.16.0
+- Node v20.9.0
 - VSC code
 - JavaScript
-- ...
-- ...
+- html
+- css
 
 ## Setup
 
 - `npm run start`
+- `npm install`
 
 ## Code Examples
 
-```js
-// the hello world program
-console.log("Hello World");
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  </head>
+  <body>
+    <header class="centered-items">
+      <img
+        class="bouncy-img"
+        src="./assets/happy-tree.jpg"
+        alt="a smiling tree"
+      />
+      <h1>All About Trees</h1>
+      <img
+        class="bouncy-img"
+        src="./assets/happy-tree.jpg"
+        alt="a smiling tree"
+      />
+    </header>
+  </body>
+</html>
+```
+
+```css
+body {
+  background-color: white;
+}
 ```
 
 ## Features
@@ -62,15 +87,18 @@ To-do list:
 
 ## Status
 
-Project is: _in progress_
+Done
 
 ## Inspiration
 
-Project by freeCodeCamp.org
+Project by HYF 2025 Group 4
 
 ## Contact
 
-By [Name]
+- [Alamgir](https://github.com/alamgir1973)
+- [Artur](https://github.com/gritchin-artur)
+- [Roman](https://github.com/kovbinka)
+- [Manloi](https://github.com/jimanloi)
 
 ## Instructions for use
 
@@ -79,14 +107,15 @@ By [Name]
 
 <!-- a guide to using this repository -->
 
-1. `git clone git@github.com:HackYourFutureBelgium/template-markdown.git`
-2. `cd template-markdown`
-3. `npm install`
+1. `git clone https://github.com/BF-FrontEnd-class-2025/group-4-all-about-trees.git`
+2. `npm install`
 
 ## Code Quality Checks
 
 - `npm run format`: Makes sure all the code in this repository is well-formatted
   (looks good).
+- `npm run format:check` : Verifies that the code follows the predefined
+  formatting rules.
 - `npm run lint:ls`: Checks to make sure all folder and file names match the
   repository conventions.
 - `npm run lint:md`: Will lint all of the Markdown files in this repository.
