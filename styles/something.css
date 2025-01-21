@@ -24,17 +24,27 @@ body {
   20%,
   60%,
   100% {
-    -webkit-transform: translateY(0);
     transform: translateY(0);
   }
 
   40% {
-    -webkit-transform: translateY(-20px);
     transform: translateY(-20px);
   }
 
   80% {
-    -webkit-transform: translateY(-10px);
     transform: translateY(-10px);
   }
+}
+
+.bottom-divider {
+  border-style: none none solid;
+}
+
+.spaced-items {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: space-around;
+  padding-top: 2%;
+  padding-bottom: 2%;
 }
