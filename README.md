@@ -38,6 +38,7 @@
 
 ## Setup
 
+- `npm install`
 - `npm run start`
 - `npm install`
 
@@ -76,14 +77,14 @@ body {
 
 List of features ready and Todos for future development
 
--
--
--
+- Add java script code
+- Add more information
+- Add more pictures of trees
+- Add more links about trees
 
 To-do list:
 
--
--
+- Footer
 
 ## Status
 
