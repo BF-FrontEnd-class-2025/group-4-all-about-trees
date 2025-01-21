@@ -1,6 +1,6 @@
 # All about trees
 
-> This project would be a simple website which is about planting trees.
+> This project is a simple website about trees.
 
 ## Table of contents
 
@@ -22,41 +22,33 @@
 
 ## General info
 
-> A short description
+> This is a simple website called `All About Trees`. It contains some interesting info about trees.
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![Example screenshot](./planning/screenshot.png)
 
 ## Technologies
 
-- Node 14.16.0
+- Node v20.9.0
 - VSC code
-- HTML
-- CSS
+- JavaScript
+- html
+- css
 
 ## Setup
 
 - `npm install`
 - `npm run start`
+- `npm install`
 
 ## Code Examples
 
-```HTML
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8" />
-    <title>All About Trees</title>
-
-    <meta name="description" content="a short introduction to trees" />
-    <meta name="author" content="Team HYF" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-
-    <link rel="stylesheet" href="./styles/index.css" />
   </head>
-
   <body>
     <header class="centered-items">
       <img
@@ -71,79 +63,13 @@
         alt="a smiling tree"
       />
     </header>
-    <nav class="bottom-divider">
-      <div class="spaced-items">
-        <a href="#summary-info">intro</a>
-        <a href="#main-info">content</a>
-        <a href="#extra-info">extras</a>
-      </div>
-    </nav>
-    <section id="summary-info">
-      <p class="fascinating-words">
-        How do Trees Work? Well, this has been a tough question to answer.
-        <br />
-        My colleagues and I sat down last week and we spent at least 45 minutes
-        thinking about it. Still we have nothing smart to say.
-      </p>
-    </section>
   </body>
 </html>
 ```
 
-```CSS
+```css
 body {
   background-color: white;
-}
-
-.centered-items {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  padding-top: 2%;
-  padding-bottom: 2%;
-}
-
-.bouncy-img {
-  width: 5%;
-  height: 5%;
-}
-
-.bouncy-img:hover {
-  animation: bounce 1s;
-}
-
-@keyframes bounce {
-  0%,
-  20%,
-  60%,
-  100% {
-    transform: translateY(0);
-  }
-
-  40% {
-    transform: translateY(-20px);
-  }
-
-  80% {
-    transform: translateY(-10px);
-  }
-}
-
-.bottom-divider {
-  border-style: none none solid;
-}
-
-.spaced-items {
-  display: flex;
-  flex-direction: row;
-  align-content: center;
-  justify-content: space-around;
-  padding-top: 2%;
-  padding-bottom: 2%;
-}
-
-.fascinating-words {
-  font-family: fantasy;
 }
 ```
 
@@ -162,15 +88,18 @@ To-do list:
 
 ## Status
 
-Project is: _in progress_
+Done
 
 ## Inspiration
 
-Project by HYF group-4
+Project by HYF 2025 Group 4
 
 ## Contact
 
-By [Artur], [Roman], [Manloi], [Almagir]
+- [Alamgir](https://github.com/alamgir1973)
+- [Artur](https://github.com/gritchin-artur)
+- [Roman](https://github.com/kovbinka)
+- [Manloi](https://github.com/jimanloi)
 
 ## Instructions for use
 
@@ -186,7 +115,8 @@ By [Artur], [Roman], [Manloi], [Almagir]
 
 - `npm run format`: Makes sure all the code in this repository is well-formatted
   (looks good).
-- `npm run format:check`: Check to make sure all world spell
+- `npm run format:check` : Verifies that the code follows the predefined
+  formatting rules.
 - `npm run lint:ls`: Checks to make sure all folder and file names match the
   repository conventions.
 - `npm run lint:md`: Will lint all of the Markdown files in this repository.
