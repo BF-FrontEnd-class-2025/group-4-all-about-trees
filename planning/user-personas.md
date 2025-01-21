@@ -1,12 +1,8 @@
 # User Personas
 
-- John, activist environment
-- Jack, scientist
-- Bill, gardener
-
 <!-- a persona -->
 
-## John
+## John, Environment Activist
 
 - **Bio**: A 30yo environmental activist looking for a community to join for
   tree-planting
@@ -21,7 +17,7 @@
 
 <!-- more personas ... -->
 
-## Jack
+## Jack, Scientist
 
 - **Bio**: A 45yo scientist looking for scientific facts about tree planting
 - **Needs/Goals**: information about trees
@@ -32,7 +28,7 @@
 
 ---
 
-## Bill
+## Bill, Gardener
 
 - **Bio**: A 50yo home gardener who loves his trees
 - **Needs/Goals**: He looks for rare varieties of plants

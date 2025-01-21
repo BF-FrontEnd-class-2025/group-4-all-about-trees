@@ -8,10 +8,10 @@
 
 ## Communication Schedule
 
-| Day | How  | The topic of discussion |
-| --- | :--: | ----------------------- |
-| 1   | Zoom | Planning                |
-| 2   | Zoom | Development             |
+| Day |     How     | The topic of discussion |
+| --- | :---------: | ----------------------- |
+| 1   |    Zoom     | Planning                |
+| 2   |Office & Zoom| Development             |
 
 ## Communication Channels
 

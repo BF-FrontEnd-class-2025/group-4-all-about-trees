@@ -4,11 +4,15 @@
 
 ## Setup
 
-- create
+- Create a new rep
+- Add collaborators and protect the main branch
+- Create a project board and issues
+- Clone the repo to a local machine
+- Create branches for each issue
 
 ## Title
 
-this feature develop on a branch "title"
+This feature develop on a branch "title"
 
 ### HTML
 
@@ -25,7 +29,7 @@ this feature develop on a branch "title"
 
 ## Navigation bar
 
-this feature develop on a branch "navigation-bar"
+This feature develop on a branch "navigation-bar"
 
 ### HTML
 
@@ -42,7 +46,7 @@ this feature develop on a branch "navigation-bar"
 
 ## Main content
 
-this feature develop on a branch "main-content"
+This feature develop on a branch "main-content"
 
 ### HTML
 
@@ -56,7 +60,7 @@ this feature develop on a branch "main-content"
 
 ## Side bar
 
-this feature develop on a branch "side-bar"
+This feature develop on a branch "side-bar"
 
 ### HTML
 
@@ -71,7 +75,7 @@ this feature develop on a branch "side-bar"
 
 ## Links
 
-this feature develop on a branch "links"
+This feature develop on a branch "links"
 
 ### HTML
 
@@ -87,7 +91,7 @@ this feature develop on a branch "links"
 
 ## Footer
 
-this feature develop on a branch "footer"
+This feature develop on a branch "footer"
 
 ### HTML
 
