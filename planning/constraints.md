@@ -4,10 +4,10 @@ Some boundaries around our project.
 
 ## External
 
-- Time only 2 days
-- No budget
+- Deadline 2 days
 
 ## Internal
 
-- New team member joined
-- We still don't know HTML and CSS
+- Members have different levels of IT skills.
+- Members speak different languages and have different levels of English.
+- Some members' computers are not working well.
